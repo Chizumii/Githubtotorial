@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Githubtotorial</string>
+    <string name="title_activity_evan">Evan</string>
+    <string name="title_activity_coba1">coba1</string>
 </resources>
